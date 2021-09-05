@@ -5,8 +5,6 @@ class Header extends Component {
         return (
             <>
             <h1 class="h1">This is Lab: Class 01</h1>
-            <ul>
-            </ul>
             </>
         )
     }

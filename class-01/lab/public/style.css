@@ -1,7 +1,24 @@
-.h1, .h1footer {
+h1, .h1footer {
     justify-content: center;
     text-align: center;
-    background: chocolate;
+    background: #C63BFA;
     margin: 0; left: 0; right: 0;
     padding: 2.5rem;
 }
+.divbody {
+    justify-content: center;
+
+}
+.divbody h4{
+    text-align: center;
+}
+.divbody img {
+    justify-content: center;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    margin-left: 17rem;}
+
+    .mainBody {
+        background: #fff;
+    }
